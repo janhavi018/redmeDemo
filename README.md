@@ -34,8 +34,8 @@ the RecipeMate is the best partner for you. It has recipe which are easy to make
 
 Team Name: Boolean K2J
 
-* [Janhavi Satpute](https://github.com/descifrado)
-* [Ritesh Ranjan](https://github.com/iosdev474)
+* [Janhavi Satpute](https://github.com/janhavi018)
+* [Ritesh Ranjan](https://github.com/sagittariusk2)
 
 
 
